@@ -44,5 +44,3 @@ Projeto desenvolvido pela equipe de alunos do curso Técnico em Desenvolvimento 
 
 ##  Objetivo
 Desenvolver um sistema web para praticar os conhecimentos de desenvolvimento de páginas, organização de arquivos, estilização com CSS e criação de interfaces responsivas.
-
-Desenvolver um sistema web para praticar os conhecimentos de desenvolvimento de páginas, organização de arquivos, estilização com CSS e criação de interfaces responsivas.
